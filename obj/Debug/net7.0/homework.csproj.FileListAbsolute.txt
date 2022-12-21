@@ -1,0 +1,15 @@
+E:\programming\c#\seminars_2\first_work\homework\bin\Debug\net7.0\homework.exe
+E:\programming\c#\seminars_2\first_work\homework\bin\Debug\net7.0\homework.deps.json
+E:\programming\c#\seminars_2\first_work\homework\bin\Debug\net7.0\homework.runtimeconfig.json
+E:\programming\c#\seminars_2\first_work\homework\bin\Debug\net7.0\homework.dll
+E:\programming\c#\seminars_2\first_work\homework\bin\Debug\net7.0\homework.pdb
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.csproj.AssemblyReference.cache
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.AssemblyInfoInputs.cache
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.AssemblyInfo.cs
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.csproj.CoreCompileInputs.cache
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.dll
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\refint\homework.dll
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.pdb
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\homework.genruntimeconfig.cache
+E:\programming\c#\seminars_2\first_work\homework\obj\Debug\net7.0\ref\homework.dll
